@@ -1,3 +1,9 @@
 # HolaMundo
 Mi primer repositorio en GitHub!!
-I love :VideoGame:, :Burger:, :Gym:, :Pizza:, :Icecream:, :Cat:, :Music: 
+I love 🎮, 🍔, :gym:, 🍕, 🍦, 🐱, 🎵. 
+
+Mi ultima linea en el repositorio
+
+nueva actividad
+
+finalizando con GitHub
